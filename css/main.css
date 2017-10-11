@@ -4,8 +4,8 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
-  font-family: Geogia, sans-serif;
-  line-height: 1rem;
+  font-family: Georgia;
+  line-height: 1.5;
 }
 
 .cards {
