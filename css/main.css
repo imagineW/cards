@@ -5,7 +5,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
   font-family: Geogia, sans-serif;
-  line-height: 1;
+  line-height: 1rem;
 }
 
 .cards {
