@@ -6,7 +6,7 @@ box-sizing: border-box;
 box-sizing: inherit;
 }
 .cards {
-  margins: 0;
+  margin: 0;
   padding: 0;
   list-style-type: none;
 }
