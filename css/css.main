@@ -10,3 +10,29 @@ box-sizing: inherit;
   padding: 0;
   list-style-type: none;
 }
+
+.cards li {
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em;
+  background-color: #fff;
+  border: 3px solid #e2e2e2;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.cards img {
+  display: block;
+  margin: 0 auto 1 rem;
+}
+
+.cards strong {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem
+}
