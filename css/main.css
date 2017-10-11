@@ -61,7 +61,7 @@ box-sizing: inherit;
   color: #000;
   text-decoration: none;
 }
-.cards a: hover {
+.cards a:hover {
   background-color: #333;
   color: #fff;
   }
